@@ -1,0 +1,7 @@
+dist/
+node_modules
+.env
+.eslintcache
+.DS_Store
+ebuddy-f4683-firebase-adminsdk-hd4us-0c70dd3a51.json
+*.log
