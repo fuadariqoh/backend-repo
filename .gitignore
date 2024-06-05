@@ -1,7 +1,0 @@
-dist/
-node_modules
-.env
-.eslintcache
-.DS_Store
-src/integrations/pushNotification/firebase/serviceAccountKey/*.json
-*.log
